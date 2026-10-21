@@ -1,0 +1,7 @@
+{
+  "name": "a8k59yt-class-portal",
+  "version": "6.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Cổng Quản Lý & Thi Đua Lớp A8 Khóa 59 Yên Thế (Hỗ trợ Vercel Storage & Google Firebase)"
+}
